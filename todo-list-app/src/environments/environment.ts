@@ -4,6 +4,16 @@
 
 export const environment = {
   production: false
+  // firebase:{
+  //     apiKey: "AIzaSyALf97JR7br6WCJeAMaE11DUmfbZD3i0Nw",
+  //     authDomain: "todo-list-app-21643.firebaseapp.com",
+  //     databaseURL: "https://todo-list-app-21643.firebaseio.com",
+  //     projectId: "todo-list-app-21643",
+  //     storageBucket: "todo-list-app-21643.appspot.com",
+  //     messagingSenderId: "112696799789",
+  //     appId: "1:112696799789:web:ff8a3ba0e075e5c8dd7ea4",
+  //     measurementId: "G-2XD324MF0Y"
+  // }
 };
 
 /*
