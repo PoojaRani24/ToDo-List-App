@@ -1,0 +1,12 @@
+<p>todo works!</p>
+
+<div *ngFor="let item of items; let index = i;">
+    <div class="row" style="height:50px;margin-left:35em;margin-top:15px;"> 
+<div class="row">
+  <div style="width:400px;border:1px solid red;padding:5px">Coming from todo {{item}}</div> 
+        <button (click)="deleteTask(i)" style="margin-left:1em;" > 
+    Delete
+    </button>
+  </div>
+    </div> 
+        </div> 
